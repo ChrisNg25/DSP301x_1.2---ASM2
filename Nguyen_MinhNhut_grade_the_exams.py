@@ -1,4 +1,3 @@
-#  Viết một chương trình cho phép người dùng nhập tên của một tệp và truy cập đọc.
 
 #  Viết một chương trình cho phép người dùng nhập tên của một tệp và truy cập đọc.
 
